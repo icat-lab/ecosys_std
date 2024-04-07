@@ -1,0 +1,2 @@
+# ecosys_std
+東京理科大学IDM国際デザイン経営学科において深見嘉明が担当する「Ecosystem and Standardization」に関する公開情報提供サイトです。
