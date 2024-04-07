@@ -1,5 +1,5 @@
 # Ecosystem and Standardization
-[深見嘉明](https://github.com/icat-lab/icat_lab)が担当する、東京理科大学IDM国際デザイン経営学科 「Ecosystem and Standardization」 に関する公開情報提供サイトです。
+[深見嘉明](https://github.com/icat-lab/icat_lab)が担当する、[東京理科大学IDM国際デザイン経営学科](https://www.tus.ac.jp/idm/) 「Ecosystem and Standardization」 に関する公開情報提供サイトです。
 
 ## 英語で学ぶの意味
 - 基本的にはシラバスを参照いただきたいのですが、英語「で」学ぶというのは、単に「英文の資料を読む」のではなく、英語での講義と課題出題・回答によって授業が進められることを意味します。
@@ -19,12 +19,8 @@ To achive skills to realize value creation with modern information techonogies s
 メディアやツールの進化によって可能となった価値創出形態を理解し、各自が価値創出できるための知識や考え方を身につける。
 
 ## 到達目標
-(1) Understanding the characteristics of modern media and tools developed with the evolution of information technology and their impact on society and the economy.
-(2) Understanding network infrastructure design and governance mechanisms, and business models with latest technologies and information infrastructures.
-
-(1) 情報技術の進化によって生み出される新たなメディアやツールの特性を把握し、社会経済に対する影響を理解する。
-(2) ネットワークインフラストラクチャの設計・ガバナンスのメカニズム、ならびにビジネスモデルを理解する。
-(3) ディプロマ・ポリシーに定めた目標である、「デジタル技術による問題解決の先導」「分野横断型プロジェクトへの貢献」に携わるための手法や理論を身につける。
+1. Understanding the characteristics of modern media and tools developed with the evolution of information technology and their impact on society and the economy./ 情報技術の進化によって生み出される新たなメディアやツールの特性を把握し、社会経済に対する影響を理解する。
+1.  Understanding network infrastructure design and governance mechanisms, and business models with latest technologies and information infrastructures./ ネットワークインフラストラクチャの設計・ガバナンスのメカニズム、ならびにビジネスモデルを理解する。
 
 ## 授業計画
 1. Introduction
